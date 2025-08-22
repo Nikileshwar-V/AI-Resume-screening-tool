@@ -1,0 +1,4 @@
+We are hiring an entry-level Software Engineer with strong problem solving skills,
+knowledge of data structures and algorithms, and hands-on experience in Python or Java.
+Experience with web development (React/Node/Flask), databases (SQL/MongoDB), and cloud (AWS/Azure/GCP) is a plus.
+Familiarity with machine learning libraries (TensorFlow, scikit-learn) is preferred.

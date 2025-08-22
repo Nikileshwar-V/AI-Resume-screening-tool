@@ -1,0 +1,2 @@
+Software developer with Java, Spring, and React experience. Built REST APIs, used PostgreSQL and Redis.
+Deployed to Azure. Comfortable with Pandas, NumPy. Practiced algorithms and coding interview problems.
