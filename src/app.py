@@ -17,7 +17,7 @@ TEMPLATE = """
 <body class="bg-light p-4">
 
 <div class="container">
-  <h2 class="mb-4 text-center">🚀 AI Resume Screening Tool</h2>
+  <h2 class="mb-4 text-center">AI Resume Screening Tool</h2>
 
   <form method="POST" enctype="multipart/form-data" class="card p-3 shadow-sm">
     <div class="mb-3">
