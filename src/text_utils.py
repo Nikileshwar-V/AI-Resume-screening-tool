@@ -5,7 +5,7 @@ from typing import List
 import nltk
 from nltk.corpus import stopwords
 
-# Ensure NLTK data is available (user must run downloader once in README)
+
 STOPWORDS = set(stopwords.words('english'))
 
 def normalize_text(text: str) -> str:
