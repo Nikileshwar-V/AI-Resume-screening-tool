@@ -90,4 +90,4 @@ You can also edit `src/skills.yaml` to add/remove skills.
 - For best results, use clear text resumes (ATS-friendly) and a focused JD.
 
 ## Author
-NIKILESHWAR.V MCA Student | AI/ML Enthusiast | Open to Internships, Job roles & Collaboration in realtime projects 📫 Connect with me: https://www.linkedin.com/in/nikileshwarv/
+NIKILESHWAR.V MCA Student | AI/ML Enthusiast | Open to Internships, Job roles & Collaboration in real time projects 📫 Connect with me: https://www.linkedin.com/in/nikileshwarv/
