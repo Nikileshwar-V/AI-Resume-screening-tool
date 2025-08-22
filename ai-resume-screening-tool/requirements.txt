@@ -1,9 +1,0 @@
-numpy
-pandas
-scikit-learn
-nltk
-pdfminer.six
-python-docx
-Flask
-werkzeug
-PyYAML

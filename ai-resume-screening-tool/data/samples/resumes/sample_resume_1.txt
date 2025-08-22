@@ -1,2 +1,0 @@
-MCA graduate with Python, Flask, and MongoDB experience. Built a threat detection system with YOLOv8 and OpenCV.
-Worked with TensorFlow, Keras, scikit-learn. Familiar with AWS and Docker. Strong DSA foundation.
