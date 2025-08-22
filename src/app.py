@@ -34,7 +34,7 @@ TEMPLATE = """
   </form>
 
   {% if results %}
-  <h4 class="mt-5">📊 Results</h4>
+  <h4 class="mt-5">Results</h4>
   <table class="table table-striped table-hover table-bordered mt-3">
     <thead class="table-dark">
       <tr>
