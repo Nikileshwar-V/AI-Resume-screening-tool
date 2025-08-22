@@ -88,3 +88,6 @@ You can also edit `src/skills.yaml` to add/remove skills.
 ## Notes
 - This tool is **evaluation support** only; final decisions should involve human review.
 - For best results, use clear text resumes (ATS-friendly) and a focused JD.
+
+## Author
+NIKILESHWAR.V MCA Student | AI/ML Enthusiast | Open to Internships, Job roles & Collaboration in realtime projects 📫 Connect with me: https://www.linkedin.com/in/nikileshwarv/
